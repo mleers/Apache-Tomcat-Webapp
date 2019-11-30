@@ -1,0 +1,30 @@
+# Directories #
+build/
+bin/
+target/
+libs/
+tmp/
+
+
+# OS generated files #
+.DS_Store
+
+# Compiled class file
+*.class
+ 
+# Package files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.db
+
+#VM crash logs
+hs_err_pid*
+
+
+# VSCode #
+.vscode/
